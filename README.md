@@ -43,3 +43,4 @@ Full-stack ticket resale platform built with React, Vite, Express, MongoDB, and 
 - Ticket uploads are created as `pending` and must be verified by a `verifier` or `admin`.
 - Purchases create transfer requests and require approval before ownership is updated.
 # RE_TIX
+# RE_TIX
